@@ -100,18 +100,7 @@ STEP 3: RUN THE APPLICATION
 # OR manually:
 java -cp .:lib/mysql-connector-j-8.4.0.jar:src StudentManagementSystem
 
-DATABASE CONFIGURATION
-----------------------
-Default connection settings (modify in StudentManagementSystem.java if needed):
-- Host: localhost:3306
-- Database: student
-- Username: root
-- Password: Root@12345
-
-To change credentials, edit lines 25-27 in src/StudentManagementSystem.java.
-
 USER GUIDE
-----------
 
 ADDING A STUDENT:
 1. Fill in all fields in the form:
