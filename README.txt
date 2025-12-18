@@ -190,15 +190,14 @@ The application has been tested for:
 SUPPORT
 -------
 For technical support or questions about this project, contact:
-- [Insert Your Email Here]
-- [Insert Course Instructor Email Here]
+hibatallahbekkar2006@gmail.com
 
-ACKNOWLEDGMENTS
+
+PROJECT DONE NY :
 ---------------
-- University: [Insert University Name]
-- Course Instructor: [Insert Instructor Name]
-- Java Swing Documentation
-- MySQL Official Documentation
+-hibat allah bekkar
+-nisrine aabid
+-ossama amssouri
 
 ==================================================
          END OF DOCUMENTATION
