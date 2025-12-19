@@ -8,13 +8,6 @@ A Java Swing application with MySQL integration for managing student records.
 The application provides full CRUD (Create, Read, Update, Delete) operations
 with data validation and persistent storage.
 
-TEAM INFORMATION
-----------------
-- Course: [Insert Course Name Here]
-- Group Number: 5
-- Submission Date: $(date +"%B %d, %Y")
-- Developed by: [Insert Your Name(s) Here]
-
 FEATURES
 --------
 ✓ Add new student records with form validation
